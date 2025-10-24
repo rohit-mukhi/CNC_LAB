@@ -1,0 +1,7 @@
+Photos to include:
+
+1) Realtime
+2) All gig wala configs
+3) Simulation with this method
+4) CLI commands mode
+5) Simulation after configuring with CLI
