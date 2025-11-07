@@ -1,0 +1,10 @@
+In CLI you need to setup nat in router.
+
+for private part:
+ip nat inside
+
+for public 
+ip nat outside
+
+Then see what is this for:
+ip inside source static 172.10.10.1 10.10.10.4
